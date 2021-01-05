@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/kdot/sandbox/bubastis/devel -DCMAKE_INSTALL_PREFIX=/home/kdot/sandbox/bubastis/install -G Unix Makefiles
