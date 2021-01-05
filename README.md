@@ -58,7 +58,7 @@ These instructions have been brought to you by user ahendrix (https://answers.ro
                 sudo chmod a+rw /dev/input/jsX
                 rosparam set joy_node/dev "/dev/input/jsX"
                 rosrun joy joy_node
-4a. You can run the following and start pressing buttons on the controller to make sure communcation is working between your machine and xbox:
+   4a. You can run the following and start pressing buttons on the controller to make sure communcation is working between your machine and xbox:
 
                 rostopic echo /joy
                 
