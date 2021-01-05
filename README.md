@@ -5,6 +5,5 @@ There are two repositories for this project. This one and one named bubastis_qua
 
 This repository contains all the code I wrote to ensure my math for the kinematics of a mammalian quadruped robot is correct.
 
-Instructions for how you can install and run the simulation yourself will be posted in the future. As of the right now, the math I used for all of this is found in bubastis_backplane.py
-
+#Directions for install  
 
