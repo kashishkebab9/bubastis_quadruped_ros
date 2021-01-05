@@ -14,5 +14,6 @@ This repository contains all the code I wrote to ensure my math for the kinemati
 # Directions for Install  
 1. If you don't have a catkin workspace you'll have to generate one:
 
-    hello world
+        hello world
+        hei
 
