@@ -35,7 +35,7 @@ This repository contains all the code I wrote to ensure my math for the kinemati
         
 These instructions have been brought to you by user ahendrix (https://answers.ros.org/question/230798/sourcing-exsisting-ros-project-running-someone-elses-project/)
 
-
+The instructions for how to run the simulation itself will be posted soon...
         
         
 
