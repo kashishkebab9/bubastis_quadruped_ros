@@ -14,6 +14,28 @@ This repository contains all the code I wrote to ensure my math for the kinemati
 # Directions for Install  
 1. If you don't have a catkin workspace you'll have to generate one:
 
-        hello world
-        hei
+        cd ~
+        mkdir -p catkin_ws/src
+        
+2. Check out the project into the src directory:        
+        
+        cd ~/catkin_ws/src
+        git clone https://github.com/kashishkebab9/bubastis_quadruped_ros.git
+        
+3. Install the dependencies for this project:
+        
+        cd ~/catkin_ws
+        rosdep install --from-paths src -i -y
+        
+4. Build and source your workspace:
+        
+        cd ~/catkin_ws
+        catkin_make
+        source devel/setup.bash
+        
+These instructions have been brought to you by user ahendrix (https://answers.ros.org/question/230798/sourcing-exsisting-ros-project-running-someone-elses-project/)
+
+
+        
+        
 
