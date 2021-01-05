@@ -5,5 +5,5 @@ There are two repositories for this project. This one and one named bubastis_qua
 
 This repository contains all the code I wrote to ensure my math for the kinematics of a mammalian quadruped robot is correct.
 
-#Directions for install  
+# Directions for install  
 
