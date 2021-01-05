@@ -62,9 +62,15 @@ These instructions have been brought to you by user ahendrix (https://answers.ro
 
                 rostopic echo /joy
                 
-5. In T3,
-                sdsdf 
+5. In T3, run the following:
+
+                cd ~/catkin_ws/src/bubaastis_quadruped_ros
+                source devel/setup.bash
+                cd src
+                rosrun xbox_control jacobian_directional_walking_controller.py
                 
+6. Now you can move the left joystick in any direction, and while holding it there, press the right back trigger, Bubastis should move in that direction!                
+               
         
         
 
