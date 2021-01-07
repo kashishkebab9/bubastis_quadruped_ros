@@ -12,6 +12,7 @@ This repository contains all the code I wrote to ensure my math for the kinemati
 2. ROS Kinetic installed
 3. An Xbox 360 controller to interface with linux
 4. Have the Joy Node set up in your ROS Distro: http://wiki.ros.org/joy
+5. Python 2.7 needs to be installed, Python 3 will NOT work
 
 ## Directions for Install  
 1. If you don't have a catkin workspace you'll have to generate one:
