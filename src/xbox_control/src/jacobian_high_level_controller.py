@@ -46,7 +46,7 @@ class quad_leg:
         #set angles to q_1_nom, q_2_nom, q_3_nom
         self.q_1 = q_1_nom
         self.q_2 = q_2_nom
-        self.q_2 = q_2_nom
+        self.q_3 = q_3_nom
 
     def ee_position(self):
         #algorithm to determine the current x, y, z position of the foot
